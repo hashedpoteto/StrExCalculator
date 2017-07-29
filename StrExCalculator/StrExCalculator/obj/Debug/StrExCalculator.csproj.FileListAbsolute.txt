@@ -1,0 +1,5 @@
+C:\Users\Unifined\Documents\GitHub\StrExCalculator\StrExCalculator\StrExCalculator\bin\Debug\StrExCalculator.dll
+C:\Users\Unifined\Documents\GitHub\StrExCalculator\StrExCalculator\StrExCalculator\bin\Debug\StrExCalculator.pdb
+C:\Users\Unifined\Documents\GitHub\StrExCalculator\StrExCalculator\StrExCalculator\obj\Debug\StrExCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Unifined\Documents\GitHub\StrExCalculator\StrExCalculator\StrExCalculator\obj\Debug\StrExCalculator.dll
+C:\Users\Unifined\Documents\GitHub\StrExCalculator\StrExCalculator\StrExCalculator\obj\Debug\StrExCalculator.pdb

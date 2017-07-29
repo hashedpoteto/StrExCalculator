@@ -1,0 +1,8 @@
+C:\Users\Unifined\Documents\GitHub\StrExCalculator\StrExCalculator\ExampleApp\bin\Debug\ExampleApp.exe.config
+C:\Users\Unifined\Documents\GitHub\StrExCalculator\StrExCalculator\ExampleApp\bin\Debug\ExampleApp.exe
+C:\Users\Unifined\Documents\GitHub\StrExCalculator\StrExCalculator\ExampleApp\bin\Debug\ExampleApp.pdb
+C:\Users\Unifined\Documents\GitHub\StrExCalculator\StrExCalculator\ExampleApp\bin\Debug\StrExCalculator.dll
+C:\Users\Unifined\Documents\GitHub\StrExCalculator\StrExCalculator\ExampleApp\bin\Debug\StrExCalculator.pdb
+C:\Users\Unifined\Documents\GitHub\StrExCalculator\StrExCalculator\ExampleApp\obj\Debug\ExampleApp.csprojResolveAssemblyReference.cache
+C:\Users\Unifined\Documents\GitHub\StrExCalculator\StrExCalculator\ExampleApp\obj\Debug\ExampleApp.exe
+C:\Users\Unifined\Documents\GitHub\StrExCalculator\StrExCalculator\ExampleApp\obj\Debug\ExampleApp.pdb
