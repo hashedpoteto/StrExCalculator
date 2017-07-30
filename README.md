@@ -4,7 +4,11 @@
  文字列の式を計算することができる。  
 
 ## ディレクトリ内容
-
+　StrExCalculator  
+  -  StrExCalculator
+  -  
+  -  
+  -
 ## 利用できる計算式
 
 ### 四則演算
